@@ -15,3 +15,8 @@ Features:
 3.)Updating existing student records is possible
 4.)SQL Injection protection is given by using prepared statements in PHP
 
+NOTE!!!!!
+Additional Features will be added in a couple of days:
+1.)Search feature in database.
+2.)Image upload and display
+3.)More organized and functional webpage.

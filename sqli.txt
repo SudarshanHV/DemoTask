@@ -1,0 +1,7 @@
+CREATE DATABASE students;
+USE students;
+CREATE TABLE studentdata(
+    id INT NOT NULL PRIMARY KEY AUTO_INCREMENT, 
+    stname varchar(50) NOT NULL,
+    strollno varchar(20) NOT NULL
+    );
